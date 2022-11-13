@@ -1,0 +1,10 @@
+<tr>
+                <td>{border}</td>
+                <td>
+                  <ul>
+                    <li>
+                      <Link to={`/countrie/${border}`}>{border}</Link>
+                    </li>
+                  </ul>
+                </td>
+              </tr>
